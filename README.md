@@ -1,3 +1,3 @@
 # CODES
 
-These are **compitiitve coding** codes 
+List of **compitiitve coding** codes in C++
